@@ -1,5 +1,5 @@
 [Build A Clock With JavaScript](https://www.youtube.com/watch?v=Ki0XXrlKlHY)  
 [CodePen](https://codepen.io/WebDevSimplified/pen/WBbyPW)  
 [My code](https://github.com/itbj/JavaScript-Clock)  
-[How To Create Analog Clock With HTML, CSS, JavaScript](https://www.youtube.com/watch?v=6xEQ_jA5V2Y)  
+[]()  
 []()  
